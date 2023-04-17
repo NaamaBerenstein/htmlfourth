@@ -88,8 +88,8 @@ p {
   font-weight: normal;
   letter-spacing: 0.5px;
   padding: 0 25px;
-  background: black;
-  border-radius: 1px;
+  background: #d1bea8;
+  border-radius: 5px;
   -webkit-transition: -webkit-transform 0.3s;
   -moz-transition: -moz-transform 0.3s;
   transition: transform 0.3s;
@@ -108,8 +108,8 @@ p {
   left: 0;
   width: 100%;
   height: 100%;
-  background: #000000;
-  border-radius: 1px;
+  background: white;
+  border-radius: 5px;
   color: #ffffff;
   padding: 0 25px;
   content: attr(data-hover);
@@ -139,7 +139,7 @@ p {
 
 .csstransforms3d .section-btn button:hover span::before,
 .csstransforms3d .section-btn button:hover span::before {
-  background: #000000;  
+  background: #d1bea8;  
 }
 
 
